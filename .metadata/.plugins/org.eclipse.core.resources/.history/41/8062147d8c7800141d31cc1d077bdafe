@@ -1,0 +1,28 @@
+package edu.uz.issi.lab3.zadania;
+
+public class Zadanie_3b extends Zadanie_3 {
+
+	public Zadanie_3b() {
+		super();
+	}
+
+	public void displayStrings() {
+		System.out.println(ic.getString() + ".");
+		System.out.println(ic.getAnotherString() + ".");
+	}
+
+	static public void main(String[] args) {
+		Zadanie_3b c1 = new Zadanie_3b();
+		c1.displayStrings();
+	}
+
+	protected class InnerClass2 {
+		public String getString() {
+			return "InnerClass1: getString wywołane";
+		}
+
+		public String getAnotherString() {
+			return "InnerClass1: getAnotherString wywołane";
+		}
+	}
+}

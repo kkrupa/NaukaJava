@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move type &apos;edu.uz.issi.lab2.zadania.Rectangle&apos; in &apos;edu.uz.issi.lab2.zadania.Point.java&apos; to new file&#x0A;- Original project: &apos;Pierwszy&apos;&#x0A;- Original element: &apos;edu.uz.issi.lab2.zadania.Rectangle&apos;" description="Move type &apos;Rectangle&apos; to new file" field="false" final="true" flags="786438" id="org.eclipse.jdt.ui.move.inner" input="/src&lt;edu.uz.issi.lab2.zadania{Point.java[Rectangle" mandatory="false" possible="false" stamp="1416139983929" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+package edu.dom.kamil.selfstudy;
+
+public class Czas {
+	
+	private int hour;
+	private int minute;
+	private int seconds;
+	
+	public void setTime(int h, int m, int s) {
+		hour = ((h>=0 && h <24) ? h : 0);
+	}
+	
+	
+}

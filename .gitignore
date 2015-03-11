@@ -1,0 +1,10 @@
+.metadata/*
+.recommenders/*
+
+.recommenders/repository/http___download_eclipse_org_recommenders_models_luna_/org/eclipse/recommenders/index/0.0.0-SNAPSHOT/index-0.0.0-20140605.014212-1.zip
+
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+
+*.xmi
+
+*.xmi
